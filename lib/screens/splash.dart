@@ -1,4 +1,4 @@
-import 'package:cyber_rakshak/screens/start/start.dart';
+import 'package:cyber_rakshak/screens/start.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:slider_action/slider_action.dart';
